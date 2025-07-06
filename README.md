@@ -19,7 +19,7 @@ The **AI-Powered Voice and Vision Chatbot** bridges communication gaps in **heal
 
 ## **Workflow Diagram**
 
-![Workflow Diagram](https://github.com/Akash-Kadali/Conversational-AI-with-Voice-and-Visual-Capabilities/blob/main/Process%20Flow.png)
+![Workflow Diagram](Process Flow.png)
 
 ---
 
