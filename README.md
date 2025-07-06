@@ -35,8 +35,10 @@ The **AI-Powered Voice and Vision Chatbot** bridges communication gaps in **heal
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Akash-Kadali/Conversational-AI-with-Voice-and-Visual-Capabilities.git
-cd Conversational-AI-with-Voice-and-Visual-Capabilities
+git clone https://github.com/siddhunayak/Interactive-AI-with-AV-(Audio-Visual)-Intelligence.git
+
+cd "Interactive-AI-with-AV-(Audio-Visual)-Intelligence"
+
 ```
 
 #### 2️⃣ Set Up Virtual Environment
