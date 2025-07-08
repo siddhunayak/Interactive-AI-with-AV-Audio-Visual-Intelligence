@@ -23,6 +23,10 @@ The **AI-Powered Voice and Vision Chatbot** bridges communication gaps in **heal
 
 
 ---
+## 🖼️ model Interface
+
+![model Interface](https://raw.githubusercontent.com/siddhunayak/Interactive-AI-with-AV-Audio-Visual-Intelligence/main/Screenshot%202025-07-08%20082507.png)
+---
 
 ## **Getting Started**
 
