@@ -19,7 +19,8 @@ The **AI-Powered Voice and Vision Chatbot** bridges communication gaps in **heal
 
 ## **Workflow Diagram**
 
-![Workflow Diagram](Process Flow.png)
+![Process Flow](https://raw.githubusercontent.com/siddhunayak/Interactive-AI-with-AV-Audio-Visual-Intelligence/main/Process%20Flow.png)
+
 
 ---
 
