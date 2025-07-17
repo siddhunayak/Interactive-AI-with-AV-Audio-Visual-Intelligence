@@ -20,7 +20,7 @@ SYSTEM_PROMPT = (
 
 def process_inputs(audio_filepath, image_filepath):
     """Processes audio and image inputs to generate a medical response."""
-    
+
     # Transcribe audio
     speech_text = transcribe_with_groq(GROQ_API_KEY, audio_filepath, stt_model="whisper-large-v3")
 
@@ -28,7 +28,11 @@ def process_inputs(audio_filepath, image_filepath):
     if image_filepath:
         encoded_image = encode_image(image_filepath)
         query = f"{SYSTEM_PROMPT} {speech_text}"
-        doctor_response = analyze_image_with_query(query=query, encoded_image=encoded_image, model="llama-3.2-11b-vision-preview")
+        doctor_response = analyze_image_with_query(
+            query=query,
+            encoded_image=encoded_image,
+            model="llama-3.2-11b-vision-preview"
+        )
     else:
         doctor_response = "No image provided for analysis."
 
@@ -53,4 +57,4 @@ iface = gr.Interface(
 )
 
 if __name__ == "__main__":
-    iface.launch(debug=True)
+    iface.launch(server_name="0.0.0.0", server_port=7860, debug=True)
