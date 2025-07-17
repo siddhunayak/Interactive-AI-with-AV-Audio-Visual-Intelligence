@@ -27,7 +27,12 @@ The **AI-Powered Voice and Vision Chatbot** bridges communication gaps in **heal
 
 ![model Interface](https://raw.githubusercontent.com/siddhunayak/Interactive-AI-with-AV-Audio-Visual-Intelligence/main/Screenshot%202025-07-08%20082507.png)
 ---
+🖼️ Application Preview
+---
+🌐 Click here to view the live app
 
+[https://the-resume-refinery.onrender.com/](https://interactive-ai-with-av-audio-visual.onrender.com/)
+---
 ## **Getting Started**
 
 ### **Prerequisites**
